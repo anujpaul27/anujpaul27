@@ -22,10 +22,10 @@
 I'm passionate about crafting **end-to-end solutions** that solve real-world problems with clean, efficient, and modern code.Currently focusing on full-stack web development while continuously sharpening my problem-solving skills through competitive programming.
 
 - 🔭 Currently building: Social Media project, and scalable systems  
-- 🌱 Learning & Improving: Next.js, TypeScript, advanced DSA patterns  
+- 🌱 Learning & Improving: Next.js, Express, DSA patterns  
 - 👨‍💻 Competitive Programming: CodeChef (2-Star Rank), Codeforces max rating 1050
-- 💼 Hands-on experience with large projects  
-- 📫 Let's collaborate: Open to remote opportunities, jobs, internships, and meaningful projects
+- 💼 Hands-on experience with real-life projects  
+- 📫 Let's collaborate: Open to remote opportunities, jobs, internships, and meaningful projects | Currently interning at CodeAlpha
   
 "Driven by curiosity, fueled by code, and always ready to learn something new."
 
@@ -34,17 +34,22 @@ I'm passionate about crafting **end-to-end solutions** that solve real-world pro
 ### 🛠️ Tech Stack
 
 <div align="center">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </div>
 
 <br>
@@ -66,9 +71,9 @@ More projects in my repositories! Check them out 👇
 
 - Solved **700+ problems** across platforms  
 - **CodeChef**: 2-Star Coder Rank (Phitron Batch 5)  
-- Regular practice on LeetCode & Codeforces to build strong DSA foundation
+- Regular practice on LeetCode & Codeforces to build a strong DSA foundation
 
-These challenges help me write optimized, bug-free code in production environments.
+These challenges help me write optimised, bug-free code in production environments.
 
 ---
 
